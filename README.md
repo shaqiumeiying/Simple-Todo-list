@@ -1,0 +1,1 @@
+This is a very simple todo-list that makes you keep track of the todos. Changes you apply to the list will be persistent even after the window being closed and reopened.
