@@ -5,3 +5,9 @@ Todos that were added/deleted will be persistent, remaining on the page after th
 
 ![simple todo list](intro.png "Simple Todo-list")
 
+### Previous Version
+
+The origin of this project was a desktop application named "dodolist," implemented by Java, which I adapted into a web application. 
+
+Here is the link to the source code: [Dodo list](https://github.com/shaqiumeiying/Dodo-List)
+
